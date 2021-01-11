@@ -2,15 +2,6 @@
  * Maggie Li
  * period 6
  * 12/2/18
- * This part of the lab (Activities 1-3) took me 1.5 hours to complete.
- * In the first 3 activities,I had to create a Card class and a Deck class that could
- * be used for any card game. At first I had trouble deciding what to use in the Deck
- * class to hold all the cards, but I ultimately decided that using an ArrayList would
- * be the best option. I put an ArrayList as an attribute and then initialized
- * it in the constructor. I then had to add an add() method to the class so that cards
- * could be added to the ArrayList. Writing the shuffle() method was somewhat 
- * challenging, but I accomplished it using the Random class to switch cards randomly.
- * Next time, I would like to add more methods to the Deck class.
  */
 /**
  * Card.java
