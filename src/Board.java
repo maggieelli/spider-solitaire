@@ -1,8 +1,6 @@
 /*
  * Maggie Li
- * period 6
  * 12/6/18
- * This part of the lab (Activities 4-5) took me 4 hours to complete.
  */
 import java.util.ArrayList;
 import java.awt.EventQueue;
