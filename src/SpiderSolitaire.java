@@ -1,25 +1,6 @@
 /*
  * Maggie Li
- * period 6
- * 12/6/18
- * This part of the lab (Activity 6) took me 30 minutes to complete.
- * 
  * 12/9/18
- * This part of the lab (Activity 7) took me 2 hours to complete.
- * At first, the code I was using did not consistently bring up the "Save As" 
- * window, but after I got further instructions for MacOS computers, I added 
- * more code that made sure that the "Save As" window always comes up when 
- * called. I was also not sure in what format to save the Board to a file. I 
- * figured that it would be easier to start from the bottom, by returning the 
- * state of each Card as a String, then using that to return the state of each 
- * Deck, and then finally using that to create a file with the state of the 
- * Board. Because I knew the exact format of how I saved the state of the
- * Board to the file, I was able to easily write a method that reversed that
- * to restore the saved Board. Overall, while this lab was easily the hardest
- * and most complicated of the semester, it is also the most rewarding because
- * it forced me to review everything we learned this semester and because I am
- * now able to play a game that I wrote myself! Next time, I would like to
- * use the Card and Deck methods I made and try to create a different game.
  */
 import java.util.Scanner;
 import java.util.InputMismatchException;
